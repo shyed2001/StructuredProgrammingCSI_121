@@ -1,0 +1,51 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Sl    Roll    Name    CSE 101    CSE 102    CSE 103    CSE 104        Weighted Credit   Earned Credit Hours    GPA
+1	MCE07905532	Morad Hossen 	A-	A-	B+	A+	A    36.000    10.250    3.512
+2	MSE07905536	Shyed Shahriar Housaini  	B-	A	A-	A-	A-    34.000    10.250    3.317
+3	MCE07905537	Anjan Chandra Das  	A+	B	A+	B-	A    38.062    10.250    3.713
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+    36.500    10.250    3.561
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F    12.000    5.250    2.286
+6	MCE08005542	Farha Jabin 	B+	B+	A+	A+	C+    34.625    10.250    3.378
+7	MCE08005543	Sadia Jafrin 	A+	F	D	F	F    18.000    6.000    3.000
+8	MCE08005544	Abdishakur Hussein 	C+	C+	A-	A-	B+    30.875    10.250    3.012
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	A+    29.750    10.250    2.902
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D    25.750    8.750    2.943
+1	MCE07905532	Morad Hossen 	A-	A-	B+	A+	A    36.000    10.250    3.512
+2	MSE07905536	Shyed Shahriar Housaini  	B-	A	A-	A-	A-    34.000    10.250    3.317
+3	MCE07905537	Anjan Chandra Das  	A+	B	A+	B-	A    38.062    10.250    3.713
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+    36.500    10.250    3.561
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F    12.000    5.250    2.286
+6	MCE08005542	Farha Jabin 	B+	B+	A+	A+	F    29.625    8.250    3.591
+7	MCE08005543	Sadia Jafrin 	A+	F	D	F	F    18.000    6.000    3.000
+8	MCE08005544	Abdishakur Hussein 	C+	C+	A-	A-	F    24.375    8.250    2.955
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	F    21.750    8.250    2.636
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D    25.750    8.750    2.943
+=======
+=======
+>>>>>>> Stashed changes
+Sl    Roll    Name    CSE 101    CSE 102    CSE 103    CSE 104        Weighted Credit   Earned Credit Hours    GPA
+1	MCE07905532	Morad Hossen 	A-	A-	B+	A+	A    36.000    10.250    3.512
+2	MSE07905536	Shyed Shahriar Housaini  	B-	A	A-	A-	A-    34.000    10.250    3.317
+3	MCE07905537	Anjan Chandra Das  	A+	B	A+	B-	A    38.062    10.250    3.713
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+    36.500    10.250    3.561
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F    12.000    5.250    2.286
+6	MCE08005542	Farha Jabin 	B+	B+	A+	A+	C+    34.625    10.250    3.378
+7	MCE08005543	Sadia Jafrin 	A+	F	D	F	F    18.000    6.000    3.000
+8	MCE08005544	Abdishakur Hussein 	C+	C+	A-	A-	B+    30.875    10.250    3.012
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	A+    29.750    10.250    2.902
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D    25.750    8.750    2.943
+1	MCE07905532	Morad Hossen 	A-	A-	B+	A+	A    36.000    10.250    3.512
+2	MSE07905536	Shyed Shahriar Housaini  	B-	A	A-	A-	A-    34.000    10.250    3.317
+3	MCE07905537	Anjan Chandra Das  	A+	B	A+	B-	A    38.062    10.250    3.713
+4	MCE08005540	Md. Ali Ahsan	B+	B+	A+	C+	A+    36.500    10.250    3.561
+5	MCE08005541	Nasrin Akter Sumi	C+	D	F	D	F    12.000    5.250    2.286
+6	MCE08005542	Farha Jabin 	B+	B+	A+	A+	F    29.625    8.250    3.591
+7	MCE08005543	Sadia Jafrin 	A+	F	D	F	F    18.000    6.000    3.000
+8	MCE08005544	Abdishakur Hussein 	C+	C+	A-	A-	F    24.375    8.250    2.955
+9	MCE08005546	Asad Ahmed Ali	C	A+	C	B	F    21.750    8.250    2.636
+10	MCE08005547	Hussein Ibrahim Ahmed	C+	F	A	A+	D    25.750    8.750    2.943
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

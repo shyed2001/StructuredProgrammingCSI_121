@@ -1,0 +1,15 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Roll	Name	Sub1	Sub2	Sub3	Sub4	Sub5	GPA
+Roll	Name	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+MCE7905536	Shariar	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+=======
+Roll	Name	Sub1	Sub2	Sub3	Sub4	Sub5	GPA
+Roll	Name	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+MCE7905536	Shariar	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+>>>>>>> Stashed changes
+=======
+Roll	Name	Sub1	Sub2	Sub3	Sub4	Sub5	GPA
+Roll	Name	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+MCE7905536	Shariar	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0(0.00)	0.00
+>>>>>>> Stashed changes

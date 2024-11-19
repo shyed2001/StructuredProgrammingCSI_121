@@ -1,0 +1,25 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+# depslib dependency file v1.0
+1691490754 source:e:\git_clone_files\msc_cse\structuredprogrammingcsi_121\grading system\main.c
+	<stdio.h>
+
+1691847329 source:f:\githubclonefiles\msc_cse\structuredprogrammingcsi_121\grading system\main.c
+	<stdio.h>
+	<string.h>
+
+=======
+=======
+>>>>>>> Stashed changes
+# depslib dependency file v1.0
+1691490754 source:e:\git_clone_files\msc_cse\structuredprogrammingcsi_121\grading system\main.c
+	<stdio.h>
+
+1691847329 source:f:\githubclonefiles\msc_cse\structuredprogrammingcsi_121\grading system\main.c
+	<stdio.h>
+	<string.h>
+
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

@@ -1,0 +1,31 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Sl	Roll	Name
+1	MCE07905532	 Morad Hossen  
+2	MSE07905536	Shyed Shahriar Housaini  
+3	MCE07905537	Anjan Chandra Das  
+4	MCE08005540	Md. Ali Ahsan
+5	MCE08005541	Nasrin Akter Sumi
+6	MCE08005542	Farha Jabin 
+7	MCE08005543	Sadia Jafrin 
+8	MCE08005544	Abdishakur Hussein 
+9	MCE08005546	Asad Ahmed Ali
+10	MCE08005547	Hussein Ibrahim Ahmed
+=======
+=======
+>>>>>>> Stashed changes
+Sl	Roll	Name
+1	MCE07905532	 Morad Hossen  
+2	MSE07905536	Shyed Shahriar Housaini  
+3	MCE07905537	Anjan Chandra Das  
+4	MCE08005540	Md. Ali Ahsan
+5	MCE08005541	Nasrin Akter Sumi
+6	MCE08005542	Farha Jabin 
+7	MCE08005543	Sadia Jafrin 
+8	MCE08005544	Abdishakur Hussein 
+9	MCE08005546	Asad Ahmed Ali
+10	MCE08005547	Hussein Ibrahim Ahmed
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

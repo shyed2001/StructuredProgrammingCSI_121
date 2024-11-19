@@ -1,0 +1,21 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Subject	Credit
+CSE 101	3.0
+CSE 102	1.5
+CSE 103	3.0
+CSE 104	0.75
+CSE 105	2.0
+=======
+=======
+>>>>>>> Stashed changes
+Subject	Credit
+CSE 101	3.0
+CSE 102	1.5
+CSE 103	3.0
+CSE 104	0.75
+CSE 105	2.0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes

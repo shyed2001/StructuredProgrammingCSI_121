@@ -1,0 +1,13 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Roll	Sub1	Sub2	Sub3	Sub4	Sub5
+CreditHour	3.0	3.0	2.0	2.0	2.0
+=======
+Roll	Sub1	Sub2	Sub3	Sub4	Sub5
+CreditHour	3.0	3.0	2.0	2.0	2.0
+>>>>>>> Stashed changes
+=======
+Roll	Sub1	Sub2	Sub3	Sub4	Sub5
+CreditHour	3.0	3.0	2.0	2.0	2.0
+>>>>>>> Stashed changes
+MCSE0790556	58	98	56	25	45	 
